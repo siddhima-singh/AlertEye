@@ -105,3 +105,5 @@ This project builds on the robustness of Raspberry Pi and the reliability of PIR
 --- 
 #Contributors:
 1) Siddhima Singh : [GitHub](https://github.com/siddhima-singh)
+2) Aastha Kothari : [GitHub](https://github.com/AASTHAKOTHAR)
+3) Lakshya Sharma : [GitHub](https://github.com/lakshya603)
